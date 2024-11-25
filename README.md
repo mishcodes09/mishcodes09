@@ -1,6 +1,3 @@
-👋 Hi, I’m Mihle Mncunzwa (@mishcodes09)!
-🎓 Currently pursuing a Computer Science degree at Varsity College, with a focus on building innovative, user-centered applications.
-
 
 
 <!---
