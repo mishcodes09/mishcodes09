@@ -1,6 +1,6 @@
 👋 Hi, I’m Mihle Mncunzwa (@mishcodes09)!
 
-🎓 Computer Science student at Varsity College, learning how to build complex projects
+🎓 Computer Science student at Varsity College, learning how to code
 
 📫 Reach me at mishssmicrosoft@gmail.com or on LinkedIn.
 
