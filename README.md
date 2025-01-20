@@ -1,8 +1,6 @@
 👋 Hi, I’m Mihle Mncunzwa (@mishcodes09)!
 
-🎓 Computer Science student at Varsity College, passionate about building innovative applications and crafting great user experiences.
-
-💻 Skilled in C#, ASP.NET Core, Azure, MySQL, and Figma. Always eager to collaborate on impactful projects and grow as a developer.
+🎓 Computer Science student at Varsity College, learning how to build complex projects
 
 📫 Reach me at mishssmicrosoft@gmail.com or on LinkedIn.
 
