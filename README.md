@@ -4,7 +4,7 @@
 
 📫 Reach me at mishssmicrosoft@gmail.com or on LinkedIn.
 
-✨ Fun fact: I’m also a fashion enthusiast and love expressing creativity beyond code!
+✨ Fun fact: i love the beach
 
 <!---
 mishcodes09/mishcodes09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
