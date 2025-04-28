@@ -1,9 +1,9 @@
 # 💫 About Me:
-I'm passionate about building, learning and solving problems with code.<br>
-I love working on web applications and games, and I'm always exploring new technologies and ideas.<br>
-Currently learning: Javascript with SheCodes. <br>
-🤝 Open to collaborate on interesting and meaningful projects.  <br>
-🚀 Goal: Keep growing, keep building, and make an impact through code.  <br>
+💻 I'm passionate about building, learning, and solving problems with code. <br>
+🎮 I love working on web applications and games, and I'm always exploring new technologies and ideas. <br>
+📚 Currently learning: JavaScript with SheCodes. <br>
+🤝 Open to collaborate on interesting and meaningful projects.<br>
+🚀 Goal: Keep growing, keep building, and make an impact through code.<br>
 
 
 
