@@ -7,5 +7,5 @@ I enjoy turning ideas into clean, responsive interfaces and learning new things 
 Outside of coding, you’ll usually find me skating, crocheting, or working on my next side project. I also enjoy sharing what I learn through visuals, writing, and community projects.
 ### ✨ Fun Facts
 - 💭 I think better with music on  
-- ☕ Not a fan of coffee or tea  
+- ☕ Not a fan of coffee
 - 🎨 I believe small details make a big difference
