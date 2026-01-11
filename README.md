@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mihle "Mish" Mncunzwa
 
-🚀 **Junior Frontend Developer** | 💻 **Computer Science Graduate** | 🎨 **UI/UX Enthusiast**
+**Junior Frontend Developer** | **Computer Science Graduate** | **UI/UX Enthusiast**
 
 I bring the sass to software and the flair to functionality. Passionate about building clean, intuitive, and visually thoughtful digital experiences.
 
