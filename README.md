@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mihle "Mish" Mncunzwa
+# 👋 Hi, call me Mish
 
 **Junior Frontend Developer** | **Computer Science Graduate** | **UI/UX Enthusiast**
 
