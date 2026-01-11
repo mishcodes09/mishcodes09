@@ -4,13 +4,13 @@
 
 I bring the sass to software and the flair to functionality. Passionate about building clean, intuitive, and visually thoughtful digital experiences.
 
-## 🛠️ Tech Stack
+### Tech Stack
 - **Frontend**: HTML5, JavaScript (ES6+), React, Vite
 - **Backend**: C#, .NET Core, .NET MVC
 - **Styling**: CSS, Tailwind CSS, Bootstrap
 - **Tools**: Git, VS Code, Figma, Framer, Webflow
 
-## 📄 Resume
+### Resume
 [Download my resume](./assets/Mihle%20Mncunzwa.pdf)
 --
 
