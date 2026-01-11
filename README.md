@@ -1,11 +1,35 @@
-### 👋 Hi there!
+# 👋 Hi, I'm Mihle "Mish" Mncunzwa
 
-I’m Mish — a curious and creative front-end developer who loves building smooth, thoughtful digital experiences.
+🚀 **Junior Frontend Developer** | 💻 **Computer Science Graduate** | 🎨 **UI/UX Enthusiast**
 
-I enjoy turning ideas into clean, responsive interfaces and learning new things along the way.
+I bring the sass to software and the flair to functionality. Passionate about building clean, intuitive, and visually thoughtful digital experiences.
 
-Outside of coding, you’ll usually find me skating, crocheting, or working on my next side project. I also enjoy sharing what I learn through visuals, writing, and community projects.
-### ✨ Fun Facts
-- 💭 I think better with music on  
-- ☕ Not a fan of coffee
-- 🎨 I believe small details make a big difference
+## 🛠️ Tech Stack
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+), React
+- **Styling**: Tailwind CSS, Bootstrap, Sass
+- **Tools**: Git, VS Code, Figma, Netlify
+
+## 📁 Featured Projects
+
+### [Starter Stack](https://project-link.com)
+A platform connecting tech graduates with career-launching opportunities.
+- **Tech**: React (Vite), Tailwind CSS
+- [Live Demo](https://demo.com) | [GitHub](https://github.com)
+
+### [IBM-RevenueX](https://project-link.com)
+AI-powered sales and revenue automation agent.
+- **Tech**: Tailwind CSS, Firebase
+- [Live Demo](https://demo.com) | [GitHub](https://github.com)
+
+## 📫 Connect With Me
+- 📧 Email: [mishasmicrosoft@gmail.com](mailto:mishasmicrosoft@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mihle-mncunzwa](https://linkedin.com/in/mihle-mncunzwa)
+- 🐱 GitHub: [@mishcodes09](https://github.com/mishcodes09)
+- 🌐 Portfolio: [mishsspace.com](https://mishsspace.com)
+
+## 📄 Resume
+[Download my resume](./assets/Mihle%20Mncunzwa.pdf)
+
+---
+
+⭐ *"Good software should feel effortless."*
