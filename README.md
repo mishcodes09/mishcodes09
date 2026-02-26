@@ -1,10 +1,10 @@
 # 👋 Hi, call me Mish
 
-**Junior Frontend Developer** | **Computer Science Graduate** | **UI/UX Enthusiast**
+**Junior Software Developer** | **Computer Science Graduate** | **UI/UX Enthusiast**
 
 I bring the sass to software and the flair to functionality. Passionate about building clean, intuitive, and visually thoughtful digital experiences.
 
-🌐 Portfolio: https://mishsspace.netlify.app/
+🌐 Portfolio: [ https://mishsspace.netlify.app/](https://mishsspace.co.za/)
 
 ### 💻 Tech Stack
 
