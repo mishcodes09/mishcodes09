@@ -4,7 +4,7 @@
 
 I bring the sass to software and the flair to functionality. Passionate about building clean, intuitive, and visually thoughtful digital experiences.
 
-🌐 Portfolio: [ https://mishsspace.netlify.app/](https://mishsspace.co.za/)
+🌐 Portfolio: https://mishsspace.co.za/
 
 ### 💻 Tech Stack
 
